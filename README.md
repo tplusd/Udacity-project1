@@ -20,4 +20,4 @@ There are three notebooks here to describe the whole work process to answer the 
 The main result of this project can be found at the poster here
 # Licensing, Authors, Acknowledgements
 I will give credit to Stack Overflow for some of the code and airbnb, udacity, and kaggle for the data. 
-You can find the licensing for the data and other information at the Kaggle link [here] (https://www.kaggle.com/airbnb/seattle/data).
+You can find the licensing for the data and other information at the Kaggle link [here](https://www.kaggle.com/airbnb/seattle/data).

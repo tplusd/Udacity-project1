@@ -10,10 +10,9 @@ All libraries needed to run the code including pandas, numpy, matplotlib, and se
 
 # Project Motivation
 For this project, I am interested in using Seattle AirBNB data in the year of 2016 to understand the following question:
-1. What is the busiest time to visit Seattle, and does it relate to airbnb price?
-2. Follow the last question, is there any obvious trend in the Airbnb listings and visitors?
-3. What factors in a listing contributed to the price?
-4. How can we predict the price of a listing?
+1. What is the busiest time to visit Seattle, and does it relate to airbnb price? Is there any obvious trend in the Airbnb listings and visitors?
+2. What factors in a listing contributed to the price?
+3. How can we predict the price of a listing?
 # File Descriptions
 There are three notebooks here to describe the whole work process to answer the three above questions. The first file "price-availability.ipynb" shows the exploratory work to find the trend of airbnb price and airbnb property availability, and also their connections. The second file "price-factors.ipynb" described the correlation and impact of other numerical and categorical variables on the listing price. The third file "price-model-pca.ipynb" shows models built to predict the price and the parameter tuning process. Markdown cells were used to describe some details in data exploratory, data cleaning, dimension reduction, and modeling.
 # Results
